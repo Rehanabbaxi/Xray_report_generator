@@ -32,8 +32,6 @@ pdf.output("report.pdf")
 
 
 
-
-
 # class PDF(FPDF):
 #     def header(self):
 #         # Set font for header
